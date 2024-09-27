@@ -6,6 +6,7 @@ import 'jogo.dart';
 void main() {
   runApp(const MaterialApp(
     home: Jogo(),
+    title: "teste",
     debugShowCheckedModeBanner: false,
   ));
 }
